@@ -17,4 +17,7 @@ You will also see any lint errors in the console.
 Project Description:
   Project contains CO2 Emission data in csv file. 
   UI displays CO2 emission data on world map using react-simple-maps.
+  onMouseEnter - country map, population and co2 value is projected as an tooltip.
+  Used material UI slider to change the year of emission.
+  By default it will render 2017 co2 emission values on world map.
   
